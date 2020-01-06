@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://webwangfei.github.io/</id>
     <title>也无风雨也无晴</title>
-    <updated>2020-01-06T12:51:58.482Z</updated>
+    <updated>2020-01-06T12:58:41.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://webwangfei.github.io/"/>
     <link rel="self" href="https://webwangfei.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://webwangfei.github.io/post/test1">
         </link>
         <updated>2020-01-06T12:41:07.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="this-is-a-test-blog">this is a test blog</h3>
+        <content type="html"><![CDATA[<h3 id="this-is-a-test-blog-1">this is a test blog 1😀😀<img src="https://webwangfei.github.io//post-images/1578315480397.jpg" alt="" loading="lazy"></h3>
 ]]></content>
     </entry>
     <entry>
